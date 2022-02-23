@@ -1,0 +1,34 @@
+        .container{
+			width: 800px;
+			margin: auto;
+            color: red;
+		}
+		.pembungkus{
+			position: relative;
+		}
+        .cover{
+			position: relative;
+		}
+		.img {
+    	opacity: 0.4;
+        filter: alpha(opacity=40);
+		}
+		.beranda{
+			position: absolute;
+            left: 370px;
+			top: 40px;
+		}
+		.judul{
+			position: absolute;
+			left: 40px;
+			top: 55px;
+			color: black;
+            font-family:  'Trebuchet MS', Sans-serif;
+        }
+		.h4{
+			font-family:  'Trebuchet MS', Sans-serif;
+
+		}
+	
+
+		
